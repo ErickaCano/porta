@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>actividades</title>
+</head>
+<body  bgcolor="C79AEF">
+<center><b><u><i> PORTAFOLIO </i></u></b></center>
+<center><b><u><i>ACTIVIDADES</i></u></b></center>
+<hr size ="9" color = "black" >
+
+
+</body>
+</html>
